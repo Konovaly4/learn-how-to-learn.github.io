@@ -14,4 +14,5 @@ This page was developed as Sprint 2 test work of Yandex Praktikum studying.
 
 1. Clone this repository
 2. Launch "Index.html" at your browser
+3. Use links to go to interested source
 
